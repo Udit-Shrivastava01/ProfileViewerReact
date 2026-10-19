@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Sara",
+    "role": "Full Stack Developer",
+    "imgUrl": "https://media.istockphoto.com/id/1999831980/photo/beautiful-young-woman-taking-selfie-at-home.jpg?s=1024x1024&w=is&k=20&c=3pUOo7osQ8Rxsr3pzAPnR4Xsyc24Bt6sJsLQGh-h5VM="
+  },
+  {
+    "name": "Aarav Sharma",
+    "role": "Frontend Developer",
+    "imgUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Priya Mehta",
+    "role": "UI/UX Designer",
+    "imgUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Rohan Verma",
+    "role": "Backend Developer",
+    "imgUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Ananya Patel",
+    "role": "Product Manager",
+    "imgUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Kabir Singh",
+    "role": "Software Engineer",
+    "imgUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Isha Gupta",
+    "role": "Data Analyst",
+    "imgUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Dev Malhotra",
+    "role": "DevOps Engineer",
+    "imgUrl": "https://images.unsplash.com/photo-1504257432389-52343af06ae3?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Meera Joshi",
+    "role": "Marketing Specialist",
+    "imgUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Arjun Rao",
+    "role": "QA Engineer",
+    "imgUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop&crop=faces"
+  },
+  {
+    "name": "Sana Khan",
+    "role": "Data Scientist",
+    "imgUrl": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400&h=400&fit=crop&crop=faces"
+  }
+]
